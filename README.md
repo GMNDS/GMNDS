@@ -34,6 +34,10 @@ Abaixo está um tipo de roadmap de coisas que pretendo aprender e já aprendi:
 - [ ] Rust
 - [ ] Java
 
+# Banco de dados
+ - [ ] PostgreSQL
+ - [ ] MongoDB
+
 ## Projetos simples que pretendo construir apenas para conhecer as tecnologias
 - [x] Construir um projeto que use WebAssembly
 - [ ] Construir um projeto que consuma alguma API
@@ -43,10 +47,6 @@ Abaixo está um tipo de roadmap de coisas que pretendo aprender e já aprendi:
 - [ ] Construção de WebSocket
 - [ ] Construir um projeto com CI/CD Continuou Integration / Continuous Delivery 
 - [ ] Criação de testes com Jest, Cypress ou Poku para front-end e Rust para backend
-
-# Banco de dados
- - [ ] PostgreSQL
- - [ ] MongoDB
 
 ## Projetos mais complexos
 - [ ] Construir um projeto com React e Rust 
