@@ -1,32 +1,38 @@
-## Olá
+# Olá
 
-Meu nome é Gabriel, sou estudando de Desenvolvimento de Software Multiplataforma desde 05/08/2024, mas já estudo programação a algum tempo e aqui é onde pretendo construir minha biblioteca de conhecimentos adquiridos.
+Meu nome é Gabriel, sou estudando de Desenvolvimento de Software Multiplataforma, mas já estudo programação a algum tempo e  meu foco para o futuro é backend, esse repositório vai ser minha biblioteca de conhecimento.
 
-A linguagem que estou investindo é Rust e a cada dia aprendo um pouco mais sobre ela, mesmo que seja um pouco difícil e com conceitos diferentes, estou criando uma base nela antes de migrar totalmente para outras linguagens que é com oque provavelmente vou trabalhar.
+A linguagem principal que estou aprendendo por conta própria é Rust e com ela a cada dia aprendo diferentes coisas e consigo me aprofundar em alguns conceitos da programação
 
-Vou colocar aqui uma lista de coisas que já aprendi e pretendo aprender algumas superficialmente outras profundamente durante os próximos meses(ou anos):
+Abaixo está um tipo de roadmap de coisas que pretendo aprender e já aprendi:
 
-
-## Tecnologias
-- [x] Git/ Github
+## Design
 - [x] Figma
+
+## Desenvolvimento Web
 - [x] HTML
-- [x] CSS 
-- [x] Oracle Cloud
+- [x] CSS
+- [ ] Javascript
+- [ ] Typescript
+- [ ] React
+
+## Devops
+- [x] Git/ Github
 - [x] Traefik
 - [x] Authentik 
 - [x] Docker (utilização)
 - [ ] Docker (Desenvolvimento)
 - [ ] Kubernetes
+
+
+## Cloud
 - [ ] AWS
 - [ ] GCP
-
+- [x] Oracle Cloud
 
 ## Linguagens de programação
 - [ ] Rust
-- [ ] Javascript
-- [ ] Typescript
-- [ ] C#
+- [ ] Java
 
 ## Projetos simples que pretendo construir apenas para conhecer as tecnologias
 - [x] Construir um projeto que use WebAssembly
