@@ -4,7 +4,7 @@ Meu nome é Gabriel, sou estudando de Desenvolvimento de Software Multiplataform
 
 A linguagem principal que estou aprendendo por conta própria é Rust e com ela a cada dia aprendo diferentes coisas e consigo me aprofundar em alguns conceitos da programação
 
-Abaixo está um tipo de roadmap de coisas que pretendo aprender e já aprendi:
+Abaixo está um tipo de roadmap de coisas que pretendo aprender e já aprendi pelo menos o básico:
 
 ## Design
 - [x] Figma
