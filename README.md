@@ -12,9 +12,9 @@ Abaixo está um tipo de roadmap de coisas que pretendo aprender e já aprendi pe
 ## Desenvolvimento Web
 - [x] HTML
 - [x] CSS
-- [ ] Javascript
+- [x] Javascript
 - [ ] Typescript
-- [ ] React
+- [ ] Vue
 
 ## Devops
 - [x] Git/ Github
@@ -22,7 +22,6 @@ Abaixo está um tipo de roadmap de coisas que pretendo aprender e já aprendi pe
 - [x] Authentik 
 - [x] Docker (utilização)
 - [ ] Docker (Desenvolvimento)
-- [ ] Kubernetes
 
 
 ## Cloud
@@ -37,6 +36,7 @@ Abaixo está um tipo de roadmap de coisas que pretendo aprender e já aprendi pe
 # Banco de dados
  - [ ] PostgreSQL
  - [ ] MongoDB
+ - [ ] SQL
 
 ## Projetos simples que pretendo construir apenas para conhecer as tecnologias
 - [x] Construir um projeto que use WebAssembly
@@ -46,10 +46,9 @@ Abaixo está um tipo de roadmap de coisas que pretendo aprender e já aprendi pe
 - [ ] Construção de uma API Rest
 - [ ] Construção de WebSocket
 - [ ] Construir um projeto com CI/CD Continuou Integration / Continuous Delivery 
-- [ ] Criação de testes com Jest, Cypress ou Poku para front-end e Rust para backend
 
 ## Projetos mais complexos
-- [ ] Construir um projeto com React e Rust 
+- [ ] Construir um projeto com Leptos e Rust
 - [ ] Construir um projeto com autenticação
 
 <!--
