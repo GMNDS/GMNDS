@@ -5,6 +5,7 @@
 
 ## Rust
 - https://oort.rs/scenario/tutorial_guns
+- https://bevyengine.org/learn/quick-start/introduction/
 
 ## Modelagem de banco de dados
 - https://dbdiagram.io
