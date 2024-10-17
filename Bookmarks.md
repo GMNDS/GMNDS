@@ -12,3 +12,6 @@
 - https://plantuml.com/er-diagram
 - https://databasediagram.com/app
 - https://app.erdlab.io/
+
+## Outros
+- https://github.com/ualers/SoftwareAI
