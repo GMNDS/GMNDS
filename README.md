@@ -34,22 +34,23 @@ Abaixo está um tipo de roadmap de coisas que pretendo aprender e já aprendi pe
 - [ ] Java
 
 # Banco de dados
- - [ ] PostgreSQL
+ - [X] PostgreSQL
  - [ ] MongoDB
- - [ ] SQL
+ - [X] Linguagem SQL
 
 ## Projetos simples que pretendo construir apenas para conhecer as tecnologias
 - [x] Construir um projeto que use WebAssembly
-- [ ] Construir um projeto que consuma alguma API
-- [ ] Construir um projeto que de Webscrapping
-- [ ] Construir um projeto com internacionalização de webpages
 - [ ] Construção de uma API Rest
+- [ ] Construir um projeto que consuma alguma API
+- [ ] Construir um projeto de Webscrapping
+- [ ] Construir um projeto com internacionalização de webpages
 - [ ] Construção de WebSocket
 - [ ] Construir um projeto com CI/CD Continuou Integration / Continuous Delivery 
 
-## Projetos mais complexos
+## Projetos completos
 - [ ] Construir um projeto com Leptos e Rust
 - [ ] Construir um projeto com autenticação
+- [ ] Construir um projeto com HTML CSS, Javascript no frontend, com node e express e postgresql no backend
 
 <!--
 **GMNDS/GMNDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
